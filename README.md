@@ -1,7 +1,6 @@
 # 🌊 OceanProject
 
-**OceanProject** is a Java-based console application that celebrates the beauty, depth, and serenity of the ocean. 
-This is the first foundational version.
+**OceanProject** Simple beginner level,Java-based console application that celebrates the beauty, depth, and serenity of the ocean. This is the first foundational version.
 
 ## Current Features 
 - Simple Java console application
@@ -13,7 +12,3 @@ This is the first foundational version.
 - Java (JDK 17+)
 - IntelliJ IDEA (or any preferred IDE)
 
-## 📦 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/OceanProject.git
